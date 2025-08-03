@@ -59,7 +59,7 @@ Importation Process: Data was ingested using Power BI’s Excel connector.
 
 ## Data Modeling 
 Effective data modeling structures raw data into an analytical framework, allowing seamless relationship-building between tables. In this project, Power BI automatically identified table relationships, forming a *star schema model*: 
-![image alt](https://github.com/Icemma/PowerBi_Project/blob/55572f980a8ec7b264e0bff710aea7172b5ebfaa/Screenshot%202025-07-23%20195857.png)
+![image alt](https://github.com/Chiamaka-Emeh/PowerBI-Project/blob/cc7176d609b63eba10c94b74e38029377388977e/Screenshot%20_Star%20schema.png)
 
 1. Fact Table: Sales Table, Inventory
 2. Dimension Tables: Products, Stores, and Dates
