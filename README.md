@@ -90,9 +90,6 @@ Highest Profit-Generating Products:
   - Deck of Cards - 84K units
   - Magic Sand - 61K units
 
-![image alt] 
-*Notably, Playdoh Can ranks high in sales volume but not in profitability.*
-
 ### Store & Location Analysis 
 1. *Which locations generate the highest profits?*
    - Downtown stores lead with over $2M in profits.
